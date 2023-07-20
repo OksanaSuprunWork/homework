@@ -1,4 +1,4 @@
-inp_word = input ("Enter word:")
-word_lenght = len(inp_word)
-result = f"Word '{inp_word}' has {word_lenght} letters"
+input_word = input ("Enter word:")
+word_lenght = len(input_word)
+result = f"Word '{input_word}' has {word_lenght} letters"
 print (result)
